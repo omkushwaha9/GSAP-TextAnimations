@@ -16,21 +16,17 @@ body {
     justify-content: center;
     background-size: cover;
     background-position: center;
+    position: absolute;
+    top: 200;
 }
 
 h1 {
     display: inline-block;
-    margin: 0;
     font-size: 300px;
-    
     background-image: url("https://images.pexels.com/photos/3629227/pexels-photo-3629227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     color: transparent;
-    background-clip: text;
-    
-}
-extra{
-    background-color: #fff;
+    background-clip: text;  
 }
