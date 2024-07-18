@@ -10,11 +10,13 @@ body {
     height: 100%;
     width: 100%;
 }
-#page1 {
+body {
     background-color: black;
     display: flex;
     text-align: center;
     justify-content: center;
+    background-size: cover;
+    background-position: center;
 }
 
 h1 {
