@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: girlroy;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+#page1 {
+    background-color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+h1 {
+    display: inline-block;
+    margin: 0;
+    font-size: 300px;
+    background-image: url("https://images.pexels.com/photos/3629227/pexels-photo-3629227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    
+}
+extra{
+    background-color: #fff;
+}
