@@ -13,7 +13,6 @@ body {
 body {
     background-color: black;
     display: flex;
-    text-align: center;
     justify-content: center;
     background-size: cover;
     background-position: center;
@@ -23,6 +22,7 @@ h1 {
     display: inline-block;
     margin: 0;
     font-size: 300px;
+    
     background-image: url("https://images.pexels.com/photos/3629227/pexels-photo-3629227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-repeat: no-repeat;
     background-size: cover;
