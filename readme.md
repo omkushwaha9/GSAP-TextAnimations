@@ -25,6 +25,7 @@ This project focuses on developing an interactive and visually compelling text a
 The text animation effect consists of several key components:
 
  <h4>Trigger Mechanism:</h4>
+ 
    - The animation is triggered automatically when the webpage is loaded or reloaded. This ensures that every visitor experiences the animation effect immediately upon accessing the page.
 
 <h4>Text Positioning:</h4>
