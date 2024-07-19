@@ -35,6 +35,7 @@ The text animation effect consists of several key components:
    - The animation is designed to be smooth and fluid, ensuring a seamless visual experience. The text halves move along a predefined path, maintaining their respective trajectories until they converge at the center.
 
 <h4>Convergence and Final Position:</h4>
+
    - As the two halves approach the center, they seamlessly merge to form the complete text. The text then settles at the center of the screen, becoming fully visible and readable.
    - The final positioning of the text is precise and aligned, ensuring that it is centrally located and aesthetically balanced.
 
