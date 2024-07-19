@@ -11,6 +11,7 @@ body {
     height: 100%;
     width: 100%;
 }
+
 body {
     background-color: black;
     display: flex;
@@ -19,10 +20,11 @@ body {
 
 }
 
-h1{
+h1 {
     font-size: 100px;
     overflow: hidden;
 }
-h1 span{
+
+h1 span {
     display: inline-block;
 }
