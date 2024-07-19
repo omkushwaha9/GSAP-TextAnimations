@@ -14,22 +14,22 @@ function breakTheText() {
             clutter += `<span class="b">${elem}</span>`
         }
     })
-       h1.innerHTML = clutter
+    h1.innerHTML = clutter
 }
 
 breakTheText()
 
-gsap.from("h1 .a",{
-    y:80,
-    duration:0.6,
-    delay:0.5,
-    stagger:0.15,
-    opacity:0
+gsap.from("h1 .a", {
+    y: 80,
+    duration: 0.6,
+    delay: 0.5,
+    stagger: 0.15,
+    opacity: 0
 })
-gsap.from("h1 .b",{
-    y:80,
-    duration:0.6,
-    delay:0.5,
-    stagger:-0.15,
-    opacity:0
+gsap.from("h1 .b", {
+    y: 80,
+    duration: 0.6,
+    delay: 0.5,
+    stagger: -0.15,
+    opacity: 0
 })
