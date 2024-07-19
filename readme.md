@@ -39,6 +39,7 @@ The text animation effect consists of several key components:
    - The final positioning of the text is precise and aligned, ensuring that it is centrally located and aesthetically balanced.
 
 <h4>Styling and Aesthetics:</h4>
+
    - The text animation is complemented by appropriate styling to enhance its visual appeal. This includes the use of suitable fonts, colors, and effects to ensure the text stands out and resonates with the overall design theme of the webpage.
    - Additional effects, such as subtle fading or scaling, can be incorporated to add depth and dimension to the animation.
 
