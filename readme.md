@@ -31,6 +31,7 @@ The text animation effect consists of several key components:
    - Initially, the text is positioned off-screen at the bottom. This positioning creates anticipation and sets the stage for the subsequent animation.
 
 <h4>Animation Sequence:</h4>
+
    - The text is divided into two equal halves. One half of the text begins its journey from the right side of the screen, while the other half starts from the left side. Both halves move simultaneously towards the center of the screen.
    - The animation is designed to be smooth and fluid, ensuring a seamless visual experience. The text halves move along a predefined path, maintaining their respective trajectories until they converge at the center.
 
