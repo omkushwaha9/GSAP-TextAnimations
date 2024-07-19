@@ -47,9 +47,11 @@ The text animation effect consists of several key components:
 The implementation of this text animation requires a combination of HTML, CSS, and JavaScript:
 
 <h4>HTML Structure:</h4>
+
    - The text elements are defined within a container that ensures they are correctly positioned and animated.
 
 <h4>CSS Styling:</h4>
+
    - CSS is used to style the text and define its initial and final positions. Keyframe animations are employed to specify the movement paths for the text halves.
 
 <h4>JavaScript Logic:</h4>
