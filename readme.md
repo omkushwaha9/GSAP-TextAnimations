@@ -52,7 +52,7 @@ The implementation of this text animation requires a combination of HTML, CSS, a
 <h4>CSS Styling:</h4>
    - CSS is used to style the text and define its initial and final positions. Keyframe animations are employed to specify the movement paths for the text halves.
 
-3. **JavaScript Logic:**
+<h4>JavaScript Logic:</h4>**
    - JavaScript is utilized to handle the trigger mechanism, ensuring the animation is activated upon page load or reload. It also manages any additional effects or interactions required during the animation sequence.
 
 <h2>Conclusion</h2> 
